@@ -2,3 +2,4 @@ alpine
 python:alpine3.19
 neosmemo/memos:0.15.2
 xhofe/alist:latest
+1105646436/xp:xiaopi
