@@ -4,3 +4,4 @@ neosmemo/memos:0.15.2
 xhofe/alist:latest
 1105646436/xp:xiaopi
 cloudflare/cloudflared:latest
+nriver/trilium-cn:latest
