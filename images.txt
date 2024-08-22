@@ -5,3 +5,4 @@ xhofe/alist:latest
 1105646436/xp:xiaopi
 cloudflare/cloudflared:latest
 nriver/trilium-cn:latest
+cloudflare/cloudflared:latest
