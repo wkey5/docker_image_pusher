@@ -1,6 +1,7 @@
 alpine
 python:alpine3.19
-neosmemo/memos:latest
+--platform=linux/amd64 neosmemo/memos:latest
+--platform=linux/arm64 neosmemo/memos:latest
 xhofe/alist:latest
 1105646436/xp:xiaopi
 cloudflare/cloudflared:latest
