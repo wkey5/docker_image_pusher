@@ -14,3 +14,4 @@ seafileltd/seafile
 --platform=linux/amd64 gronis/seafile
 --platform=linux/arm64 franchetti/seafile-arm:latest
 --platform=linux/arm64/v8 cloudflare/cloudflared
+--platform=linux/amd64 cloudflare/cloudflared
