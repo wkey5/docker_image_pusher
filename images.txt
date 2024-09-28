@@ -12,3 +12,4 @@ cloudflare/cloudflared:latest
 seafileltd/seafile
 --platform=linux/amd64 seafileltd/seafile-mc:11.0-latest
 --platform=linux/amd64 gronis/seafile
+--platform=linux/arm64 franchetti/seafile-arm:latest
