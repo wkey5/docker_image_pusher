@@ -4,7 +4,6 @@ python:alpine3.19
 --platform=linux/arm64 neosmemo/memos:latest
 xhofe/alist:latest
 1105646436/xp:xiaopi
-cloudflare/cloudflared:latest
 nriver/trilium-cn:latest
 cloudflare/cloudflared:latest
 --platform=linux/arm64 gitea/gitea:1.21.11
@@ -15,3 +14,4 @@ seafileltd/seafile
 --platform=linux/arm64 franchetti/seafile-arm:latest
 --platform=linux/arm64/v8 cloudflare/cloudflared
 --platform=linux/amd64 cloudflare/cloudflared
+--platform=linux/arm64 cloudreve/cloudreve
