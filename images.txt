@@ -2,7 +2,6 @@ alpine
 python:alpine3.19
 --platform=linux/amd64 neosmemo/memos:latest
 --platform=linux/arm64 neosmemo/memos:latest
-xhofe/alist:latest
 1105646436/xp:xiaopi
 nriver/trilium-cn:latest
 cloudflare/cloudflared:latest
@@ -15,3 +14,5 @@ seafileltd/seafile
 --platform=linux/arm64/v8 cloudflare/cloudflared
 --platform=linux/amd64 cloudflare/cloudflared
 --platform=linux/arm64 cloudreve/cloudreve
+--platform=linux/amd64 xhofe/alist
+--platform=linux/arm64 xhofe/alist
