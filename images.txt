@@ -16,3 +16,6 @@ seafileltd/seafile
 --platform=linux/arm64 xhofe/alist
 --platform=linux/amd64 zadam/trilium:0.63.7
 --platform=linux/arm64 zadam/trilium:0.63.7
+--platform=linux/amd64 nriver/trilium-cn
+--platform=linux/arm64 nriver/trilium-cn
+
